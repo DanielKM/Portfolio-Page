@@ -1,0 +1,159 @@
+.font-20 {
+  font-size: 20px;
+}
+
+.font-30 {
+  font-size: 30px;
+}
+
+.text {
+  float: left;
+}
+
+.btn-1 {
+  border: none;
+  background-color: purple;
+  padding: 14px 28px;
+  font-size: 24px;
+  color: white;
+  cursor: pointer;
+}
+
+.btn-about {
+  background-color: #c0c0c0;
+  /*lavender*/
+  border: 1px solid black;
+  padding: 5px 16px;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: black;
+  cursor: pointer;
+}
+
+a:hover {
+  background-color: #d7bde2;
+}
+
+.btn-pc {
+  background-color: inherit;
+  border: none;
+  padding: 5px 10px;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: grey;
+  cursor: pointer;
+}
+
+.fa {
+  padding: 20px;
+  border-radius: 50%;
+  font-size: 30px;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+.fa-linkedin {
+  background: #3366cc;
+  color: white;
+}
+.background-purple {
+  background-color: purple;
+}
+
+body {
+  background-color: grey;
+}
+
+.background-lgrey {
+  background-color: #aab7b8;
+}
+
+.background-white {
+  background-color: #ffffff;
+}
+
+.textbox1 {
+  padding: 100px 50px 150px 100px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid grey;
+}
+
+.textbox2 {
+  padding: 0px 0px 50px 0px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid grey;
+}
+
+.header {
+  background-repeat: no-repeat;
+  background-position: right;
+  z-index: 66;
+  height: 65px;
+  left: 0;
+  right: 0;
+  top: 0;
+  padding-left: 200px;
+  position: fixed;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
+
+.footer {
+  background-repeat: no-repeat;
+  height: 130px;
+  width: auto;
+  border-style: solid;
+  background-position: center;
+  border-width: 1px;
+  border-color: black;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.img-circular {
+  width: 25%;
+  height: 200px;
+  background-image: url("http://i36.photobucket.com/albums/e22/Danielmarshallk/Codepen/10645224_10154752549605608_3638202876421565906_n_zpsfgmbpsko.jpg~original");
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  float: right;
+  border: black 1px solid;
+}
+
+.img-portfolio {
+  width: 265px;
+  height: 265px;
+  margin-left: 40px;
+  margin-right: 10px;
+  border: 1px solid black;
+}
+
+.img-portfolio2 {
+  max-width: 57%;
+  max-height: 57%;
+  border: 2px solid black;
+}
+
+.entry {
+  width: 200px;
+  height: 35px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
